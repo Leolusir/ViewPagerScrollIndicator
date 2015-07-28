@@ -2,6 +2,8 @@
 
 a simple library that help you create a pagerIndicator which also can be scrolled.
 
+any discuss will be welcome : leo.lusir@gmail.com
+
 ## TODO
 
 ![image](https://github.com/Leolusir/ViewPagerScrollIndicator/blob/master/images/image-1.png) ![image](https://github.com/Leolusir/ViewPagerScrollIndicator/blob/master/images/image-2.png)
